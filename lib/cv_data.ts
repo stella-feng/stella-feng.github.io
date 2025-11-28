@@ -1,6 +1,6 @@
 export const cvData = {
   personalInfo: {
-    name: "Xinyu Feng",
+    name: "Feng, Xinyu",
     title: "Master’s Student in Plant Protection",
     email: "xinyu_feng0114@outlook.com",
     phone: "+86-155-5366-8251",
